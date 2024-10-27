@@ -3,7 +3,7 @@
 1. `Set Priority` : use size & color to make your information stand out (Making a difference).
 2. `Round numbers` : Avoid typing numbers with large values ​​or lots of digits. Use short abbreviations to make it easy to read and less cluttered.
 3. `Data Ink` : Try to cut out unnecessary parts (Non-Data Ink) from the dashboard to leave only necessary information (Data Ink) to present.
-   ![Graph Ref](https://cdn.discordapp.com/attachments/1150116334617759794/1297200517608505394/image.png?ex=67150fa0&is=6713be20&hm=010fa097cc16b1c814f920c8f330f065f7d7c751e84e7ceb4a0d885f89d1b84b&)
+   ![Graph Ref](../../assets/image.png)
 4. `Arrange data group` : Try to keep related data in the same display area, For easy and continuous viewing of the summary data.
 5. `Way of presentation` : Choosing a graph to present a set of data that are similar.
 6. `Reading Pattern` : People read from left to right, top to bottom, so the information you want to see first should be placed in the top left and largest position.
