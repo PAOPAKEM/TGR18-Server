@@ -1,7 +1,15 @@
-# Welcome to MkDocs
+# TGR18 - First Team Meeting
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Note:** This document includes key points discussed during the TGR18 First team meeting.
 
-## Python Markdown Extensions
+## Project Infrastructure Overview
 
-For full documentation visit [squidfunk.github.io/mkdocs-material/](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/).
+![infra of project](./assets/infrastructure.png)
+
+### WSL or VM to run docker service ?
+
+![Which one to run docker service ?](./assets/wsl_or_vm.png)
+
+!!! note
+
+    I will use wsl to run docker service on windows
