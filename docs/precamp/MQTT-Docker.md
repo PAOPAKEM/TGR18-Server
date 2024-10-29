@@ -8,17 +8,17 @@ I followed the steps outlined in the reference website to complete this lab.
 ## Project Structure
 
 ```bash
-.
-├── docker-compose.yml
-├── mosquitto
-│   ├── config
-│   │   └── mosquitto.conf
-│   ├── data
-│   │   └── mosquitto.db
-│   └── log
-│       └── mosquitto.log
-├── test_conn.py
-└── test_sub.py
+    .
+    ├── docker-compose.yml
+    ├── mosquitto
+    │   ├── config
+    │   │   └── mosquitto.conf
+    │   ├── data
+    │   │   └── mosquitto.db
+    │   └── log
+    │       └── mosquitto.log
+    ├── test_conn.py
+    └── test_sub.py
 ```
 
 ## MQTT Broker
